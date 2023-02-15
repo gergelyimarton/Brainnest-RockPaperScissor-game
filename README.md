@@ -1,1 +1,2 @@
-# Brainnest-RockPaperScissor-game
+ https://gergelyimarton.github.io/Brainnest-RockPaperScissor-game/
+ 
